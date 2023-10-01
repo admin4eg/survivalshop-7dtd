@@ -1,7 +1,7 @@
 # survivalshop-7dtd
 SurvivalShop donation plugin for 7 Days to Die
 
-= Installation =
+## Installation
 
 1) Copy 'SurvivalShop' directory including SurvivalShop.dll and ModInfo.xml into dedicated server's Mods/ directory.
 2) Run command 'shop-state' to check up plugin installation
